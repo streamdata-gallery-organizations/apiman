@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18758-apim
 x-kinRank: "8"
 x-alexaRank: "2174785"
 tags: apiman
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apiman/master/_listings/apiman/apis.md
 specificationVersion: "0.14"
 apis: []
